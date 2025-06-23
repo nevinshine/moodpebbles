@@ -1,0 +1,5 @@
+.pond {
+    border-radius: 20px;
+    background: linear-gradient(to bottom, #a7c6ed, #e0f7fa);
+    overflow: hidden;
+}
